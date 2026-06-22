@@ -1,5 +1,8 @@
 # Heteronym
 
+*Other names, other lives — a curated collection of system prompts for LLM persona role-play*  
+*假人之名，言人之语 —— 用于大语言模型人格扮演的系统提示词集*
+
 > *Heteronym*(异名者）——源自费尔南多·佩索阿:它不是笔名,而是一个拥有
 > 独立人格、声音与思想的创作身份。一份精心打磨的人格 prompt,正是让语言
 > 模型在写作时**成为另一个人**的尝试。
