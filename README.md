@@ -26,7 +26,7 @@
 
 ## 使用
 
-将 [`kurisu.md`](kurisu.md) 的全文作为系统提示词 (system prompt) 载入你的
+将 [`k.makise_superEGO.md`](k.makise_superEGO.md) 的全文作为系统提示词 (system prompt) 载入你的
 对话模型即可。它被设计为自包含,无需额外的 few-shot 示例。
 
 > 这是一份**完整的 system prompt**,请整篇载入、不要节选——其中的优先级
